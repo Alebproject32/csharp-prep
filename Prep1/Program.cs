@@ -1,5 +1,4 @@
 using System;
-using System.Drawing;
 
 class Program
 {
@@ -14,6 +13,5 @@ class Program
         string last = Console.ReadLine();
 
         Console.WriteLine($"Your name is {last}, {first} {last}. ");
-
     }
 }
